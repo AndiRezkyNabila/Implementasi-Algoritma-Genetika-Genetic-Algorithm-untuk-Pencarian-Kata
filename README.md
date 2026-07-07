@@ -1,0 +1,1 @@
+# Implementasi-Algoritma-Genetika-Genetic-Algorithm-untuk-Pencarian-Kata
